@@ -46,6 +46,3 @@ public class Part6_3 {
  }
 }
 
-/*
- * Array.sort를 사용할 때 임의의 클래스를 사용한다면 Overried를 통해 어떤 값으로 정렬할 지 정의할 것
- */
